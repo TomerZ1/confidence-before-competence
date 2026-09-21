@@ -1,0 +1,124 @@
+{
+  "person": "victoria",
+  "probe_hash": "5132e8b6ffaa40cb",
+  "dtype": "float32",
+  "gpu": "Tesla T4",
+  "sm": "sm_75",
+  "torch": "2.10.0+cu128",
+  "transformers": "5.0.0",
+  "n_probes": 2993,
+  "files": [
+    "res__victoria__LMEnt-1B-1E__main__step0.parquet",
+    "res__victoria__LMEnt-1B-1E__main__step10000.parquet",
+    "res__victoria__LMEnt-1B-1E__main__step100000.parquet",
+    "res__victoria__LMEnt-1B-1E__main__step109672.parquet",
+    "res__victoria__LMEnt-1B-1E__main__step20000.parquet",
+    "res__victoria__LMEnt-1B-1E__main__step30000.parquet",
+    "res__victoria__LMEnt-1B-1E__main__step40000.parquet",
+    "res__victoria__LMEnt-1B-1E__main__step50000.parquet",
+    "res__victoria__LMEnt-1B-1E__main__step60000.parquet",
+    "res__victoria__LMEnt-1B-1E__main__step70000.parquet",
+    "res__victoria__LMEnt-1B-1E__main__step80000.parquet",
+    "res__victoria__LMEnt-1B-1E__main__step90000.parquet",
+    "res__victoria__LMEnt-1B-6E__alt1__step10000.parquet",
+    "res__victoria__LMEnt-1B-6E__alt1__step100000.parquet",
+    "res__victoria__LMEnt-1B-6E__alt1__step658032.parquet",
+    "res__victoria__LMEnt-1B-6E__alt2__step10000.parquet",
+    "res__victoria__LMEnt-1B-6E__alt2__step100000.parquet",
+    "res__victoria__LMEnt-1B-6E__alt2__step658032.parquet"
+  ],
+  "timing": {
+    "victoria__LMEnt-1B-1E__main__step0": {
+      "dl_s": 18.5,
+      "gpu_s": 564.8,
+      "total_s": 588.0
+    },
+    "victoria__LMEnt-1B-1E__main__step10000": {
+      "dl_s": 25.2,
+      "gpu_s": 573.7,
+      "total_s": 602.1
+    },
+    "victoria__LMEnt-1B-1E__main__step20000": {
+      "dl_s": 24.1,
+      "gpu_s": 572.3,
+      "total_s": 599.7
+    },
+    "victoria__LMEnt-1B-1E__main__step30000": {
+      "dl_s": 15.8,
+      "gpu_s": 572.7,
+      "total_s": 591.7
+    },
+    "victoria__LMEnt-1B-1E__main__step40000": {
+      "dl_s": 15.2,
+      "gpu_s": 572.1,
+      "total_s": 590.7
+    },
+    "victoria__LMEnt-1B-1E__main__step50000": {
+      "dl_s": 15.1,
+      "gpu_s": 572.5,
+      "total_s": 590.8
+    },
+    "victoria__LMEnt-1B-1E__main__step60000": {
+      "dl_s": 18.5,
+      "gpu_s": 573.4,
+      "total_s": 595.2
+    },
+    "victoria__LMEnt-1B-1E__main__step70000": {
+      "dl_s": 15.1,
+      "gpu_s": 573.3,
+      "total_s": 591.6
+    },
+    "victoria__LMEnt-1B-1E__main__step80000": {
+      "dl_s": 15.8,
+      "gpu_s": 574.5,
+      "total_s": 593.5
+    },
+    "victoria__LMEnt-1B-1E__main__step90000": {
+      "dl_s": 15.4,
+      "gpu_s": 573.9,
+      "total_s": 592.6
+    },
+    "victoria__LMEnt-1B-1E__main__step100000": {
+      "dl_s": 15.9,
+      "gpu_s": 572.9,
+      "total_s": 592.1
+    },
+    "victoria__LMEnt-1B-1E__main__step109672": {
+      "dl_s": 15.1,
+      "gpu_s": 574.4,
+      "total_s": 592.9
+    },
+    "victoria__LMEnt-1B-6E__alt1__step10000": {
+      "dl_s": 19.4,
+      "gpu_s": 587.4,
+      "total_s": 610.0
+    },
+    "victoria__LMEnt-1B-6E__alt1__step100000": {
+      "dl_s": 14.6,
+      "gpu_s": 586.2,
+      "total_s": 619.0
+    },
+    "victoria__LMEnt-1B-6E__alt1__step658032": {
+      "dl_s": 18.8,
+      "gpu_s": 589.5,
+      "total_s": 611.6
+    },
+    "victoria__LMEnt-1B-6E__alt2__step10000": {
+      "dl_s": 19.8,
+      "gpu_s": 542.9,
+      "total_s": 565.9
+    },
+    "victoria__LMEnt-1B-6E__alt2__step100000": {
+      "dl_s": 19.8,
+      "gpu_s": 541.0,
+      "total_s": 564.1
+    },
+    "victoria__LMEnt-1B-6E__alt2__step658032": {
+      "dl_s": 19.8,
+      "gpu_s": 544.7,
+      "total_s": 567.8
+    }
+  },
+  "rows": 53874,
+  "generated": "2026-08-28 20:40:29"
+}

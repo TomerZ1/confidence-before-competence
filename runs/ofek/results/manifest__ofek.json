@@ -1,0 +1,130 @@
+{
+  "person": "ofek",
+  "probe_hash": "5132e8b6ffaa40cb",
+  "dtype": "float32",
+  "gpu": "Tesla T4",
+  "sm": "sm_75",
+  "torch": "2.10.0+cu128",
+  "transformers": "5.0.0",
+  "n_probes": 2993,
+  "files": [
+    "res__ofek__LMEnt-1B-6E__main__step170000.parquet",
+    "res__ofek__LMEnt-1B-6E__main__step220000.parquet",
+    "res__ofek__LMEnt-1B-6E__main__step280000.parquet",
+    "res__ofek__LMEnt-1B-6E__main__step350000.parquet",
+    "res__ofek__LMEnt-1B-6E__main__step430000.parquet",
+    "res__ofek__LMEnt-1B-6E__main__step520000.parquet",
+    "res__ofek__LMEnt-1B-6E__main__step658032.parquet",
+    "res__ofek__LMEnt-600M-6E__main__step0.parquet",
+    "res__ofek__LMEnt-600M-6E__main__step10000.parquet",
+    "res__ofek__LMEnt-600M-6E__main__step100000.parquet",
+    "res__ofek__LMEnt-600M-6E__main__step150000.parquet",
+    "res__ofek__LMEnt-600M-6E__main__step20000.parquet",
+    "res__ofek__LMEnt-600M-6E__main__step220000.parquet",
+    "res__ofek__LMEnt-600M-6E__main__step300000.parquet",
+    "res__ofek__LMEnt-600M-6E__main__step40000.parquet",
+    "res__ofek__LMEnt-600M-6E__main__step400000.parquet",
+    "res__ofek__LMEnt-600M-6E__main__step500000.parquet",
+    "res__ofek__LMEnt-600M-6E__main__step60000.parquet",
+    "res__ofek__LMEnt-600M-6E__main__step658032.parquet"
+  ],
+  "timing": {
+    "ofek__LMEnt-1B-6E__main__step170000": {
+      "dl_s": 30.4,
+      "gpu_s": 466.0,
+      "total_s": 501.0
+    },
+    "ofek__LMEnt-1B-6E__main__step220000": {
+      "dl_s": 23.2,
+      "gpu_s": 477.1,
+      "total_s": 503.4
+    },
+    "ofek__LMEnt-1B-6E__main__step280000": {
+      "dl_s": 24.9,
+      "gpu_s": 477.5,
+      "total_s": 505.7
+    },
+    "ofek__LMEnt-1B-6E__main__step350000": {
+      "dl_s": 21.6,
+      "gpu_s": 478.7,
+      "total_s": 503.6
+    },
+    "ofek__LMEnt-1B-6E__main__step430000": {
+      "dl_s": 19.9,
+      "gpu_s": 478.7,
+      "total_s": 501.9
+    },
+    "ofek__LMEnt-1B-6E__main__step520000": {
+      "dl_s": 14.7,
+      "gpu_s": 479.5,
+      "total_s": 497.4
+    },
+    "ofek__LMEnt-1B-6E__main__step658032": {
+      "dl_s": 16.1,
+      "gpu_s": 479.6,
+      "total_s": 499.0
+    },
+    "ofek__LMEnt-600M-6E__main__step0": {
+      "dl_s": 10.8,
+      "gpu_s": 271.6,
+      "total_s": 284.6
+    },
+    "ofek__LMEnt-600M-6E__main__step10000": {
+      "dl_s": 19.0,
+      "gpu_s": 270.8,
+      "total_s": 291.8
+    },
+    "ofek__LMEnt-600M-6E__main__step20000": {
+      "dl_s": 15.1,
+      "gpu_s": 270.8,
+      "total_s": 288.0
+    },
+    "ofek__LMEnt-600M-6E__main__step40000": {
+      "dl_s": 23.7,
+      "gpu_s": 270.5,
+      "total_s": 296.4
+    },
+    "ofek__LMEnt-600M-6E__main__step60000": {
+      "dl_s": 26.2,
+      "gpu_s": 270.0,
+      "total_s": 298.3
+    },
+    "ofek__LMEnt-600M-6E__main__step100000": {
+      "dl_s": 22.5,
+      "gpu_s": 270.5,
+      "total_s": 295.1
+    },
+    "ofek__LMEnt-600M-6E__main__step150000": {
+      "dl_s": 17.5,
+      "gpu_s": 270.6,
+      "total_s": 290.3
+    },
+    "ofek__LMEnt-600M-6E__main__step220000": {
+      "dl_s": 14.6,
+      "gpu_s": 270.7,
+      "total_s": 287.5
+    },
+    "ofek__LMEnt-600M-6E__main__step300000": {
+      "dl_s": 21.2,
+      "gpu_s": 271.2,
+      "total_s": 294.5
+    },
+    "ofek__LMEnt-600M-6E__main__step400000": {
+      "dl_s": 12.1,
+      "gpu_s": 271.6,
+      "total_s": 285.8
+    },
+    "ofek__LMEnt-600M-6E__main__step500000": {
+      "dl_s": 12.5,
+      "gpu_s": 271.3,
+      "total_s": 285.9
+    },
+    "ofek__LMEnt-600M-6E__main__step658032": {
+      "dl_s": 18.3,
+      "gpu_s": 271.7,
+      "total_s": 292.0
+    }
+  },
+  "rows": 56867,
+  "generated": "2026-08-28 19:32:19"
+}

@@ -1,0 +1,30 @@
+# LaTeX build artifacts
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.bbl
+paper/*.blg
+paper/*.synctex.gz
+
+# copyrighted source papers, cited but not redistributed
+papers/
+
+# internal working records, not deliverables
+paper/writing_audit.md
+plan.md
+project_plan.md
+papers/verified_claims.md
+
+# course material and personal data, not ours to publish
+NLP_project_guidelines.md
+nlp_proposal_submitted.md
+Association_for_Computational_Linguistics__ACL__conference/
+
+# working files
+answer.md
+rubric_extract.txt
+SKILL.md
+CLAUDE.md
+CLAUDE copy.md
+.DS_Store
+**/.ipynb_checkpoints/

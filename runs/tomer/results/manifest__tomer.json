@@ -1,0 +1,82 @@
+{
+  "person": "tomer",
+  "probe_hash": "5132e8b6ffaa40cb",
+  "dtype": "float32",
+  "gpu": "Tesla T4",
+  "sm": "sm_75",
+  "torch": "2.10.0+cu128",
+  "transformers": "5.0.0",
+  "n_probes": 2993,
+  "files": [
+    "res__tomer__LMEnt-1B-6E__main__step0.parquet",
+    "res__tomer__LMEnt-1B-6E__main__step1000.parquet",
+    "res__tomer__LMEnt-1B-6E__main__step10000.parquet",
+    "res__tomer__LMEnt-1B-6E__main__step2000.parquet",
+    "res__tomer__LMEnt-1B-6E__main__step3000.parquet",
+    "res__tomer__LMEnt-1B-6E__main__step4000.parquet",
+    "res__tomer__LMEnt-1B-6E__main__step5000.parquet",
+    "res__tomer__LMEnt-1B-6E__main__step6000.parquet",
+    "res__tomer__LMEnt-1B-6E__main__step7000.parquet",
+    "res__tomer__LMEnt-1B-6E__main__step8000.parquet",
+    "res__tomer__LMEnt-1B-6E__main__step9000.parquet"
+  ],
+  "timing": {
+    "tomer__LMEnt-1B-6E__main__step0": {
+      "dl_s": 27.2,
+      "gpu_s": 550.0,
+      "total_s": 581.7
+    },
+    "tomer__LMEnt-1B-6E__main__step1000": {
+      "dl_s": 26.2,
+      "gpu_s": 551.0,
+      "total_s": 580.3
+    },
+    "tomer__LMEnt-1B-6E__main__step2000": {
+      "dl_s": 17.4,
+      "gpu_s": 550.6,
+      "total_s": 571.2
+    },
+    "tomer__LMEnt-1B-6E__main__step3000": {
+      "dl_s": 30.0,
+      "gpu_s": 549.1,
+      "total_s": 582.4
+    },
+    "tomer__LMEnt-1B-6E__main__step4000": {
+      "dl_s": 49.6,
+      "gpu_s": 550.0,
+      "total_s": 602.9
+    },
+    "tomer__LMEnt-1B-6E__main__step5000": {
+      "dl_s": 15.7,
+      "gpu_s": 550.4,
+      "total_s": 569.4
+    },
+    "tomer__LMEnt-1B-6E__main__step6000": {
+      "dl_s": 15.6,
+      "gpu_s": 549.5,
+      "total_s": 568.5
+    },
+    "tomer__LMEnt-1B-6E__main__step7000": {
+      "dl_s": 16.6,
+      "gpu_s": 549.0,
+      "total_s": 568.9
+    },
+    "tomer__LMEnt-1B-6E__main__step8000": {
+      "dl_s": 23.4,
+      "gpu_s": 549.8,
+      "total_s": 576.5
+    },
+    "tomer__LMEnt-1B-6E__main__step9000": {
+      "dl_s": 14.4,
+      "gpu_s": 549.6,
+      "total_s": 567.2
+    },
+    "tomer__LMEnt-1B-6E__main__step10000": {
+      "dl_s": 15.8,
+      "gpu_s": 548.6,
+      "total_s": 567.7
+    }
+  },
+  "rows": 32923,
+  "generated": "2026-08-28 17:41:06"
+}

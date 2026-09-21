@@ -1,0 +1,130 @@
+{
+  "person": "chen",
+  "probe_hash": "5132e8b6ffaa40cb",
+  "dtype": "float32",
+  "gpu": "Tesla T4",
+  "sm": "sm_75",
+  "torch": "2.10.0+cu128",
+  "transformers": "5.0.0",
+  "n_probes": 2993,
+  "files": [
+    "res__chen__LMEnt-170M-6E__main__step0.parquet",
+    "res__chen__LMEnt-170M-6E__main__step10000.parquet",
+    "res__chen__LMEnt-170M-6E__main__step100000.parquet",
+    "res__chen__LMEnt-170M-6E__main__step150000.parquet",
+    "res__chen__LMEnt-170M-6E__main__step20000.parquet",
+    "res__chen__LMEnt-170M-6E__main__step220000.parquet",
+    "res__chen__LMEnt-170M-6E__main__step300000.parquet",
+    "res__chen__LMEnt-170M-6E__main__step40000.parquet",
+    "res__chen__LMEnt-170M-6E__main__step400000.parquet",
+    "res__chen__LMEnt-170M-6E__main__step500000.parquet",
+    "res__chen__LMEnt-170M-6E__main__step60000.parquet",
+    "res__chen__LMEnt-170M-6E__main__step658032.parquet",
+    "res__chen__LMEnt-1B-6E__main__step100000.parquet",
+    "res__chen__LMEnt-1B-6E__main__step130000.parquet",
+    "res__chen__LMEnt-1B-6E__main__step20000.parquet",
+    "res__chen__LMEnt-1B-6E__main__step30000.parquet",
+    "res__chen__LMEnt-1B-6E__main__step40000.parquet",
+    "res__chen__LMEnt-1B-6E__main__step60000.parquet",
+    "res__chen__LMEnt-1B-6E__main__step80000.parquet"
+  ],
+  "timing": {
+    "chen__LMEnt-1B-6E__main__step20000": {
+      "dl_s": 38.7,
+      "gpu_s": 516.7,
+      "total_s": 560.0
+    },
+    "chen__LMEnt-1B-6E__main__step30000": {
+      "dl_s": 42.2,
+      "gpu_s": 522.5,
+      "total_s": 567.8
+    },
+    "chen__LMEnt-1B-6E__main__step40000": {
+      "dl_s": 44.0,
+      "gpu_s": 521.9,
+      "total_s": 569.0
+    },
+    "chen__LMEnt-1B-6E__main__step60000": {
+      "dl_s": 51.8,
+      "gpu_s": 521.0,
+      "total_s": 576.0
+    },
+    "chen__LMEnt-1B-6E__main__step80000": {
+      "dl_s": 49.7,
+      "gpu_s": 521.6,
+      "total_s": 574.5
+    },
+    "chen__LMEnt-1B-6E__main__step100000": {
+      "dl_s": 21.6,
+      "gpu_s": 521.8,
+      "total_s": 546.7
+    },
+    "chen__LMEnt-1B-6E__main__step130000": {
+      "dl_s": 45.3,
+      "gpu_s": 521.6,
+      "total_s": 570.2
+    },
+    "chen__LMEnt-170M-6E__main__step0": {
+      "dl_s": 15.9,
+      "gpu_s": 90.2,
+      "total_s": 107.4
+    },
+    "chen__LMEnt-170M-6E__main__step10000": {
+      "dl_s": 22.4,
+      "gpu_s": 90.2,
+      "total_s": 113.7
+    },
+    "chen__LMEnt-170M-6E__main__step20000": {
+      "dl_s": 22.1,
+      "gpu_s": 90.2,
+      "total_s": 113.4
+    },
+    "chen__LMEnt-170M-6E__main__step40000": {
+      "dl_s": 23.4,
+      "gpu_s": 90.3,
+      "total_s": 114.8
+    },
+    "chen__LMEnt-170M-6E__main__step60000": {
+      "dl_s": 22.3,
+      "gpu_s": 90.3,
+      "total_s": 113.6
+    },
+    "chen__LMEnt-170M-6E__main__step100000": {
+      "dl_s": 24.4,
+      "gpu_s": 90.1,
+      "total_s": 115.6
+    },
+    "chen__LMEnt-170M-6E__main__step150000": {
+      "dl_s": 36.4,
+      "gpu_s": 90.1,
+      "total_s": 127.7
+    },
+    "chen__LMEnt-170M-6E__main__step220000": {
+      "dl_s": 22.9,
+      "gpu_s": 90.2,
+      "total_s": 114.1
+    },
+    "chen__LMEnt-170M-6E__main__step300000": {
+      "dl_s": 22.7,
+      "gpu_s": 90.2,
+      "total_s": 114.0
+    },
+    "chen__LMEnt-170M-6E__main__step400000": {
+      "dl_s": 21.7,
+      "gpu_s": 90.3,
+      "total_s": 113.2
+    },
+    "chen__LMEnt-170M-6E__main__step500000": {
+      "dl_s": 22.1,
+      "gpu_s": 90.3,
+      "total_s": 113.5
+    },
+    "chen__LMEnt-170M-6E__main__step658032": {
+      "dl_s": 21.8,
+      "gpu_s": 90.2,
+      "total_s": 113.1
+    }
+  },
+  "rows": 56867,
+  "generated": "2026-08-28 17:26:53"
+}
